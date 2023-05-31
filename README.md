@@ -2,8 +2,10 @@
 ## Datasets
 ### The number of Image:
 * Our Training Set (213) includes:
+
 DIBCO 2009-HandWritten (5), DIBCO 2009-Printed (5), H-DIBCO 2010 (10), H-DIBCO 2012 (14), DIBCO 2019 (20), Bickley Diary (7), PHIBD (15), SMADI (87), and Palm Leaf Manuscript (50).
 * Our Testing Set (82) includes:
+
 DIBCO 2011 (16), DIBCO 2013 (16), H-DIBCO 2014 (10), H-DIBCO 2016 (10), DIBCO 2017 (20), H-DIBCO 2018 (10).
 
 ### Download Link
