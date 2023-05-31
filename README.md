@@ -3,8 +3,8 @@
 
 | Training Set | Training Set |
 |--------------|--------------|
-| [DIBCO 2009](http://users.iit.demokritos.gr/~bgat/DIBCO2009/benchmark/) | [DIBCO 2011](http://utopia.duth.gr/~ipratika/DIBCO2011/benchmark/) | [DIBCO 2013](http://utopia.duth.gr/~ipratika/DIBCO2013/benchmark/) |
-| [H-DIBCO 2010](http://users.iit.demokritos.gr/~bgat/H-DIBCO2010/benchmark/) |
+| [DIBCO 2009](http://users.iit.demokritos.gr/~bgat/DIBCO2009/benchmark/) | [DIBCO 2011](http://utopia.duth.gr/~ipratika/DIBCO2011/benchmark/) |
+| [H-DIBCO 2010](http://users.iit.demokritos.gr/~bgat/H-DIBCO2010/benchmark/) | [DIBCO 2013](http://utopia.duth.gr/~ipratika/DIBCO2013/benchmark/) |
 | [H-DIBCO 2012](http://utopia.duth.gr/~ipratika/HDIBCO2012/benchmark/) | [H-DIBCO 2014](http://users.iit.demokritos.gr/~bgat/HDIBCO2014/benchmark/) |
 | [DIBCO 2019](https://vc.ee.duth.gr/dibco2019/benchmark/) | [H-DIBCO 2016](http://vc.ee.duth.gr/h-dibco2016/benchmark/) |
 | [Palm Leaf Manuscript](http://amadi.univ-lr.fr/ICFHR2016_Contest/) | [DIBCO 2017](http://vc.ee.duth.gr/dibco2017/benchmark/) |
