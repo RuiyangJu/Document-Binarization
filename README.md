@@ -1,12 +1,13 @@
 
 ## Datasets
-Our Training Set includes:
+### The number of Image:
+* Our Training Set (213) includes:
 DIBCO 2009-HandWritten (5), DIBCO 2009-Printed (5), H-DIBCO 2010 (10), H-DIBCO 2012 (14), DIBCO 2019 (20), Bickley Diary (7), PHIBD (15), SMADI (87), and Palm Leaf Manuscript (50).
-
-
+* Our Testing Set (82) includes:
+DIBCO 2011 (16), DIBCO 2013 (16), H-DIBCO 2014 (10), H-DIBCO 2016 (10), DIBCO 2017 (20), H-DIBCO 2018 (10).
 
 ### Download Link
-| Training Set | Training Set |
+| Training Set | Testing Set |
 |--------------|--------------|
 | [DIBCO 2009](http://users.iit.demokritos.gr/~bgat/DIBCO2009/benchmark/) | [DIBCO 2011](http://utopia.duth.gr/~ipratika/DIBCO2011/benchmark/) |
 | [H-DIBCO 2010](http://users.iit.demokritos.gr/~bgat/H-DIBCO2010/benchmark/) | [DIBCO 2013](http://utopia.duth.gr/~ipratika/DIBCO2013/benchmark/) |
