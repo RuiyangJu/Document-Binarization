@@ -1,6 +1,11 @@
 
 ## Datasets
+Our Training Set includes:
+DIBCO 2009-HandWritten (5), DIBCO 2009-Printed (5), H-DIBCO 2010 (10), H-DIBCO 2012 (14), DIBCO 2019 (20), Bickley Diary (7), PHIBD (15), SMADI (87), and Palm Leaf Manuscript (50).
 
+
+
+### Download Link
 | Training Set | Training Set |
 |--------------|--------------|
 | [DIBCO 2009](http://users.iit.demokritos.gr/~bgat/DIBCO2009/benchmark/) | [DIBCO 2011](http://utopia.duth.gr/~ipratika/DIBCO2011/benchmark/) |
