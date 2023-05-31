@@ -8,11 +8,12 @@
 | [H-DIBCO 2012](http://utopia.duth.gr/~ipratika/HDIBCO2012/benchmark/) |
 | [DIBCO 2019](https://vc.ee.duth.gr/dibco2019/benchmark/) |
 | [Palm Leaf Manuscript](http://amadi.univ-lr.fr/ICFHR2016_Contest/) |
-| [Persian Heritage Image Binarization Dataset (PHIBD)](http://www.iaprtc11.org/mediawiki/index.php/Persian_Heritage_Image_Binarization_Dataset_(PHIBD_2012)) |                                                                                      |
+| [Persian Heritage Image Binarization Dataset (PHIBD)](http://www.iaprtc11.org/mediawiki/index.php/Persian_Heritage_Image_Binarization_Dataset_(PHIBD_2012)) |
 | [Synchromedia Multispectral Ancient Document Images Dataset (SMADI)](https://tc11.cvc.uab.es/datasets/SMADI_1) |
-| [Bickly-diary dataset](https://github.com/vqnhat/DSNBinarization/files/2793688/original_gt_labeled.zip) |
+| [Bickly-diary dataset](https://github.com/vqnhat/DSN-Binarization/files/2793688/original_gt_labeled.zip) |
 
 | Training Set |
+|--------------|
 | [DIBCO 2011](http://utopia.duth.gr/~ipratika/DIBCO2011/benchmark/) |
 | [DIBCO 2013](http://utopia.duth.gr/~ipratika/DIBCO2013/benchmark/) |
 | [H-DIBCO 2014](http://users.iit.demokritos.gr/~bgat/HDIBCO2014/benchmark/) |
