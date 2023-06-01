@@ -306,7 +306,7 @@ if __name__ == "__main__":
     parser.add_argument('--threshold', type=float, default=0.30, help='threshold for bgr mask')
     parser.add_argument('--generator_lr', type=float, default=2e-4, help='generator learning rate')
     parser.add_argument('--discriminator_lr', type=float, default=2e-4, help='discriminator learning rate')
-    parser.add_argument('--batch_size', type=int, default=24, help='batch size')
+    parser.add_argument('--batch_size', type=int, default=32, help='batch size')
 
     # data set
     parser.add_argument('--image_train_dir', type=str, default='../ThreeStageBinarization/DIBCO_resize_256/Trainset/image/', help='patched image train dir')
